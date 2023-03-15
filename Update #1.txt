@@ -1,0 +1,12 @@
+2:58 3/15/23
+__________________________________________________________________________
+Main Update 
+The script is functional and seems to run perfectly!(In its inital state)
+__________________________________________________________________________
+Extra goals 
+Change the code to accept arguments and not just a hard coded value.
+Then commit a txt file with how to run the code. 
+__________________________________________________________________________
+Which OS does it work on?
+Windows (Works, Only Hardcoded)
+Linux   (Pending Testing)
