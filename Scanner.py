@@ -10,7 +10,7 @@ print(ascli_banner)
 
 #Defining the Target
 # Replace sys.argv[1] with "127.0.0.1" to scan the local host
-target = socket.gethostbyname("127.0.0.1")
+target = socket.gethostbyname("8.8.8.8")
 
 #Add a Banner 
 print("-" * 50)
