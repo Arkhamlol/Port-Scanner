@@ -1,0 +1,4 @@
+2:51 3/15/23
+The script is working and runs. But the only thing is that it cannot accept user input working on that right now.
+Works on Windows.
+Will check on linux later 
