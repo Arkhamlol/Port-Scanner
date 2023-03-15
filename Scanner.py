@@ -1,5 +1,5 @@
 #This was made by Daniel Andrawis @arkhamlol
-#this is a port scanner written in python and works on both windows and linux
+#This is a port scanner written in python and works on both windows and linux
 import pyfiglet
 import sys
 import socket
